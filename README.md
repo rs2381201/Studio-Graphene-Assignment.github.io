@@ -1,1 +1,1 @@
-# Studio-Graphene-Assignment.github.io.
+# Studio-Graphene-Assignment.github.io
